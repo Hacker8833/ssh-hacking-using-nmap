@@ -19,7 +19,7 @@ This script automates the process of running an Nmap scan and conducting an SSH 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/ssh-brute-force-script.git
+   git clone https://github.com/Hacker8833/ssh-brute-force-script.git
    cd ssh-brute-force-script
    python script.py
 
